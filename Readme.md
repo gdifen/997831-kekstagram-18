@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александр Святченко](https://up.htmlacademy.ru/javascript/18/user/997831).
-* Наставник: `Неизвестно`.
+* Наставник: [Артём Рудов] (https://htmlacademy.ru/profile/artrudov).
 
 ---
 
